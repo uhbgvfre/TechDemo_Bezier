@@ -1,4 +1,4 @@
-# TechSnap_Bezier
+# TechDemo_Bezier
 Create bezier curve with unity
 
 ## Cubic
