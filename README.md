@@ -3,12 +3,12 @@ Create bezier curve with unity
 
 ## Cubic
 
-![BezierFunc_Cubic](BezierFunc_Cubic.png)
+![PressKit/BezierFunc_Cubic](PressKit/BezierFunc_Cubic.png)
 
-![Bezier_Cubic](Bezier_Cubic.gif)
+![PressKit/Bezier_Cubic](PressKit/Bezier_Cubic.gif)
 
 ## Quartic
 
-![BezierFunc_Quartic](BezierFunc_Quartic.png)
+![PressKit/BezierFunc_Quartic](PressKit/BezierFunc_Quartic.png)
 
-![Bezier_Quartic_With3D](Bezier_Quartic_With3D.gif)
+![PressKit/Bezier_Quartic_With3D](PressKit/Bezier_Quartic_With3D.gif)
